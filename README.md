@@ -4,4 +4,4 @@ for tee meeting
 * https://aws.amazon.com/ko/what-is-aws/
 
 ### AWS 종류 
-http://blog.embian.com/11
+* http://blog.embian.com/11
