@@ -1,5 +1,15 @@
 # tea-meeting
 for tee meeting
+### elasticsearch vs cloudsearch
+* http://cloudacademy.com/blog/elasticsearch-vs-cloudsearch/
+* http://www.searchtechnologies.com/cloudsearch-elasticsearch
+* http://harish11g.blogspot.kr/2015/07/amazon-cloudsearch-vs-elasticsearch-vs-Apache-Solr-comparison-report.html
+* http://optimalbi.com/blog/2016/02/16/aws-elasticsearch-vs-aws-cloudsearch/
+* https://techblog.recruitjobs.net/development/cloudsearch-vs-elasticsearch-service
+
+### start Elascitsearch
+* http://bakyeono.net/post/2016-06-03-start-elasticsearch.html
+
 ### AWS제품소개
 * https://aws.amazon.com/ko/what-is-aws/
 
