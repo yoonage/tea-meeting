@@ -9,6 +9,9 @@ for tee meeting
 
 ## 엘라스틱 서치란
 * http://blog.naver.com/archinitus/80205377502
+* http://wiki.intellicode.co.kr/doku.php?id=%EA%B0%9C%EB%B0%9C:elasticsearch:elasticsearch%EB%9E%80
+# 용어설명
+* https://www.elastic.co/guide/en/elasticsearch/reference/current/glossary.html#id
 
 ## 기초사용법  
 * http://bakyeono.net/post/2016-06-03-start-elasticsearch.html
