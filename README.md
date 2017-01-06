@@ -7,8 +7,18 @@ for tee meeting
 * http://optimalbi.com/blog/2016/02/16/aws-elasticsearch-vs-aws-cloudsearch/
 * https://techblog.recruitjobs.net/development/cloudsearch-vs-elasticsearch-service
 
-### start Elascitsearch
+## 엘라스틱 서치란
+* http://blog.naver.com/archinitus/80205377502
+
+## 기초사용법  
 * http://bakyeono.net/post/2016-06-03-start-elasticsearch.html
+
+## 설치하기
+* http://blog.naver.com/archinitus/80207182987
+
+## CloudSearch의 소개와 콘솔 기능
+* http://wildpup.cafe24.com/archives/1085
+
 
 ### AWS제품소개
 * https://aws.amazon.com/ko/what-is-aws/
